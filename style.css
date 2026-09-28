@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #5c5551;
+  color: white;
+  font-family: sans-serif;
+}
+
+#cookieBtn {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+#cookieBtn img {
+  width: 200px;
+}
+
+#shop {
+   text-align: right;
+   margin-left: 200px;
+   color: purple;
+   background-color: black;
+}
